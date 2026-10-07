@@ -1,0 +1,17 @@
+{
+  "resource_response": {
+    "data": {
+      "results": [
+        {
+          "images": {
+            "orig": {
+              "url": "https://i.pinimg.com/originals/aa/bb/cc/test1.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "some_unknown_pinterest_field": "real Pinterest responses carry many more fields than this schema models"
+  },
+  "client_context": {}
+}
